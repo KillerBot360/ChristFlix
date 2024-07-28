@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ChristFlix- Home</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="index.css">
+        <link rel="icon" type="image/x-icon" href="Asset 2@4x.ico">
+    </head>
+    <body>
+        <nav class="navbar">
+            <ul>
+                <li><a href="landing_page.html"><img src="img/logo.png" alt="Logo" width="10%"></a></li>
+                <!-- <li>
+                    <button type="button" id="signInButton">Sign In</button>
+                </li> -->
+            </ul>
+        </nav>
+        <div class="login-container">
+            <form class="login-form" id="loginForm">
+                <h2>Login Form</h2>
+                <div class="input-group">
+                    <input type="text" id="emailOrPhone" placeholder="Email or Phone" required>
+                </div>
+                <div class="input-group">
+                    <input type="password" id="password" placeholder="Password" required>
+                </div>
+                <a href="#" class="forgot-password">Forgot Password?</a>
+                <button type="submit" class="btn-login">LOGIN</button>
+                <p style="text-align: center;">Or login with</p>
+                <div class="social-login">
+                    <button type="button" class="btn-facebook">Facebook</button>
+                    <button type="button" class="btn-instagram">Instagram</button>
+                </div>
+                <p class="signup-link">Don't have account? <a href="signup.html">Signup Now</a></p>
+            </form>
+            
+            <script>
+                document.getElementById('loginForm').addEventListener('submit', function(event) {
+                    event.preventDefault(); // Prevent form from submitting
+            
+                    // Get input values
+                    const emailOrPhone = document.getElementById('emailOrPhone').value;
+                    const password = document.getElementById('password').value;
+            
+                    // Simple validation (you can expand this as needed)
+                    if (emailOrPhone.trim() === '') {
+                        alert('Please enter your email or phone.');
+                        return;
+                    }
+                    if (password.trim() === '') {
+                        alert('Please enter your password.');
+                        return;
+                    }
+            
+                    // If validation passes, redirect to home.html
+                    window.location.href = 'home.html';
+                });
+            </script>
+        </div>
+    </body>
+</html>
