@@ -1,2 +1,2 @@
-# InfiniWatch
+#ChristFlix
 OTT Project
