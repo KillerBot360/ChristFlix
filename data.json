@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "name": "BBC News",
+        "author": "Thomas Duncan",
+        "title": "Ronaldo rages on to eclipse McTominay's latest Scotland heroics",
+        "description": "Cristiano Ronaldo came off the bench to score his 901st career goal",
+        "url": "https://www.bbc.com/sport/football/articles/c4gz1p8580zo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/976/cpsprodpb/5f2a/live/8e9afa80-6e38-11ef-b43e-6916dcba5cbf.jpg.webp",
+        "publishedAt": "2024-09-01",
+        "content": "Having been left on the bench and unleashed at half-time by Roberto Martinez with Scotland 1-0 up, the game almost instantly became the Ronaldo show. Before his winner he hit both posts, moaned and furiously gesticulated at the referee and team-mates, while also being pursued by a pitch invader at one stage."
+    },
+    {
+        "id": "2",
+        "name": "BBC News",
+        "author": "Jane Doe",
+        "title": "Inter Miami 5-0 Orlando City: Luis Suarez & Lionel Messi score twice in MLS rout",
+        "description": "Luis Suarez had a hand in four of Inter Miami's five goals",
+        "url": "https://www.bbc.com/sport/football/68460658",
+        "urlToImage": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13267/production/_132793487_gettyimages-2053913991.jpg.webp",
+        "publishedAt": "2024-09-03",
+        "content": "Luis Suarez scored his first goals for Inter Miami and Lionel Messi also netted twice as they thrashed Orlando City in the MLS."
+    },
+    {
+        "id": "3",
+        "name": "BBC News",
+        "author": "R C Jay",
+        "title": "Gundogan 'wanted to leave' Barcelona",
+        "description": "Barcelona president Joan Laporta says Ilkay Gundogan 'decided that he wanted to leave' and his move was not due to financial pressures at the club.",
+        "url": "https://www.bbc.com/sport/football/articles/c70jyej4v7qo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/976/cpsprodpb/8559/live/5e9cdb50-6a0a-11ef-a7a9-a5dffdc3c315.jpg.webp",
+        "publishedAt": "2024-09-02",
+        "content": "The 33-year-old returned to Manchester City just a year after leaving, and it was reported to be due to ongoing high costs that were preventing the Catalan giants registering a number of new signings."
+    },
+    {
+        "id": "4",
+        "name": "BBC News",
+        "author": "Jacob Doe",
+        "title": "Barcelona or Premier League? Changed man Hansi Flick ready to return to management",
+        "description": "From one of Europe's most-wanted managers to the first coach sacked by Germany - Hansi Flick's career has been a rollercoaster over the past few years.",
+        "url": "https://www.bbc.com/sport/football/68596739",
+        "urlToImage": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13083/production/_132955977_gettyimages-1254282265.jpg.webp",
+        "publishedAt": "2024-09-05",
+        "content": "Following a spectacularly successful spell with Bayern Munich, on 10 September he made history when he was dismissed by his country after a 4-1 friendly defeat by Japan made it three losses in a row."
+    },
+    {
+        "id": "5",
+        "name": "BBC News",
+        "author": "Susan Philip",
+        "title": "Hansi Flick sacked by Germany as Euro 2024 hosts lose patience",
+        "description": "Hansi Flick won 70 of his 86 games in charge of Bayern Munich from November 2019 to June 2021",
+        "url": "https://www.bbc.com/sport/football/66765708",
+        "urlToImage": "https://ichef.bbci.co.uk/news/976/cpsprodpb/B991/production/_131050574_hansiflick.jpg.webp",
+        "publishedAt": "2023-09-05",
+        "content": "Hansi Flick has been sacked as Germany manager following Saturday's 4-1 friendly defeat by Japan in Wolfsburg."
+    },
+    {
+        "id": "6",
+        "name": "BBC News",
+        "author": "Jerin Joseph",
+        "title": "Palmer and Chilwell not in Chelsea European squad",
+        "description": "Cole Palmer and Ben Chilwell have been left out of Chelsea's European squad for different reasons",
+        "url": "https://www.bbc.com/sport/football/articles/cje2jw09ylzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/976/cpsprodpb/815c/live/fcb26910-6b93-11ef-bfd9-5f2d264bba80.jpg.webp",
+        "publishedAt": "2024-09-05",
+        "content": "Cole Palmer and Ben Chilwell are among four senior players left out of Chelsea's Conference League squad.England forward Palmer, midfielder Romeo Lavia and defender Wesley Fofana have been purposely left out to manage their workload."
+    }
+]
